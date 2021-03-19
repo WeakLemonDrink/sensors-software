@@ -2,7 +2,7 @@ build-leonardo
 build-uno
 
 esp8266-arduino/.DS_Store
-
+env/*
 .DS_Store
 
 compile_mac.sh
